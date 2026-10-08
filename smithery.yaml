@@ -1,0 +1,21 @@
+name: costforge-mcp
+displayName: CostForge - Autonomous LLM Token, Model Routing & Cloud FinOps MCP
+description: Universal LLM token optimization, prompt caching & cloud FinOps engine for Cursor, Claude Code & Windsurf. Reduces AI token bills by 50-80% through semantic prompt compression, automated model cascade routers (Claude 3.5 / Haiku / DeepSeek), Anthropic ephemeral cache breakpoints, and serverless compute audits.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/costforge-mcp
+repository: https://github.com/AmyGraphics/costforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/costforge-mcp/main/icon.png
+keywords:
+  - token-optimization
+  - finops
+  - prompt-caching
+  - llm-cost
+  - anthropic-cache
+  - model-router
+  - deepseek
+  - claude
+  - cursor
+  - windsurf
+startCommand:
+  type: http
+  url: https://costforge-api.agentweb-hub.workers.dev/mcp
